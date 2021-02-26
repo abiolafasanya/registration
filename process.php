@@ -42,7 +42,7 @@
         );
       
         // session message
-        $_SESSION['message'] = "User has been saved!";
+        $_SESSION['message'] = "Registration Successful!";
         $_SESSION['msg_type'] = "success";
         header(
             'location: index.php?data'
