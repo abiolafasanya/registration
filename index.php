@@ -9,6 +9,7 @@
     <title>REGISTRATION FORM PHP</title>
 </head>
 <body>
+    <!-- all input are being processed in process.php -->
     <div class="container">
             <?php
 
