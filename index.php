@@ -81,13 +81,13 @@
 
                 <div class="form-group">
                     <label for="name">Name</label>
-                    <input type="text" name="name" class="form-control">
+                    <input type="text" name="name" class="form-control" required>
                     <!-- name -->
                 </div>
 
                 <div class="form-group">
                     <label for="email">Email</label>
-                    <input type="email" name="email" class="form-control">
+                    <input type="email" name="email" class="form-control" required>
                     <!-- email -->
                 </div>
 
@@ -103,7 +103,7 @@
                 </div>
                 <div class="form-group">
                     <label for="password">password</label>
-                    <input type="password" name="password" class="form-control">
+                    <input type="password" name="password" class="form-control" required>
                     <!-- password -->
                 </div>
 
